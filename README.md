@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LazarusMackles
 - 👀 I’m interested in Life
 - 🌱 I’m currently learning Loads
-- 💞️ I’m looking to collaborate on Opera House
+- 💞️ I like building Apps with the Google AI Studio
 - 📫 How to reach me is classified
 - 😄 Pronouns: That Thing
 - ⚡ Fun fact: To endure is to inspire.
